@@ -8,15 +8,15 @@
 
 # Site settings
 # title appears in the header
-title: Unconventional spatial representations Opportunites for robotics
+title: Unconventional spatial representations: Opportunites for robotics
 # description and keywords for meta tags
 description: ""
 keywords: ""
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Tomasz Kucner
+pub_year: 2023
+github_username: tkucner
 
 # add the full url for the github repository
 repo: "https://github.com/usr2023/usr2023.github.io"
