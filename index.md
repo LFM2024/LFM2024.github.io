@@ -1,6 +1,5 @@
 ---
 title: Home
-nav: true
 ---
 
 # Abstartact!
