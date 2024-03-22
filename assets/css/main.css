@@ -100,11 +100,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #285135;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg,    #285135, #21532f, #195527, #10571e, #055913);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #285135, #21532f, #195527, #10571e, #055913);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg,     #285135, #21532f, #195527, #10571e, #055913);
-		background-image: url("images/overlay.png"), linear-gradient(45deg,         #285135, #21532f, #195527, #10571e, #055913);
+		background-color: #2a597a;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg,    #2a597a, #1b557e, #124b74, #0a4975, #004474);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #2a597a, #1b557e, #124b74, #0a4975, #004474);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg,     #2a597a, #1b557e, #124b74, #0a4975, #004474);
+		background-image: url("images/overlay.png"), linear-gradient(45deg,         #2a597a, #1b557e, #124b74, #0a4975, #004474);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -121,7 +121,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #285135;
+		background-color: #2a597a;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3109,12 +3109,12 @@ input, select, textarea {
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 1.0em;
 			letter-spacing: -0.025em;
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 4em 5em 3em 5em ;
 		}
 
 			#header.alt h1 {
@@ -3122,14 +3122,14 @@ input, select, textarea {
 			}
 
 			#header.alt > * {
-				-moz-transition: opacity 3s ease;
-				-webkit-transition: opacity 3s ease;
-				-ms-transition: opacity 3s ease;
-				transition: opacity 3s ease;
-				-moz-transition-delay: 0.5s;
-				-webkit-transition-delay: 0.5s;
-				-ms-transition-delay: 0.5s;
-				transition-delay: 0.5s;
+				-moz-transition: opacity 1.25s ease;
+				-webkit-transition: opacity 1.25s ease;
+				-ms-transition: opacity 1.25s ease;
+				transition: opacity 1.25s ease;
+				-moz-transition-delay: 0s;
+				-webkit-transition-delay: 0s;
+				-ms-transition-delay: 0s;
+				transition-delay: 0s;
 				opacity: 1;
 			}
 
@@ -3229,12 +3229,12 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		body.is-preload #header.alt .logo {
+		/*body.is-preload #header.alt .logo {
 			-moz-transform: scale(0.8) rotate(-30deg);
 			-webkit-transform: scale(0.8) rotate(-30deg);
 			-ms-transform: scale(0.8) rotate(-30deg);
 			transform: scale(0.8) rotate(-30deg);
-		}
+		}*/
 
 /* Nav */
 
