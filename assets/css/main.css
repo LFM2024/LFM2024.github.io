@@ -386,7 +386,7 @@ input, select, textarea {
 		}
 
 		.row > .col-2 {
-			width: 16.66667%;
+			width: 33.3333333333%;
 		}
 
 		.row > .off-2 {
@@ -1364,7 +1364,7 @@ input, select, textarea {
 				}
 
 				.row > .col-2-small {
-					width: 16.66667%;
+					width: 33.333333%;
 				}
 
 				.row > .off-2-small {
@@ -2398,7 +2398,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 50%;
 		}
 
 			.image.fit img {
